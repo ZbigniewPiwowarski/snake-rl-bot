@@ -1,0 +1,18 @@
+=== RAPORT AGENTA SNAKE ===
+Data zapisu: 2025-08-01T22:01:50.442831
+Typ agenta: RandomAgent
+Liczba rozegranych gier: 6
+Najlepszy wynik: 0 punktów
+Liczba restartów: 6
+Nazwa agenta: Random Agent
+
+=== STATYSTYKI ===
+nazwa: Random Agent
+wszystkie_ruchy: 716
+udane_ruchy: 0
+kolizje: 0
+typ_agenta: Losowy (nie uczy się)
+
+=== INFORMACJE TECHNICZNE ===
+Plik .pkl: models/emergency_save_20250801_220150.pkl
+Plik .txt: models/emergency_save_20250801_220150.txt
